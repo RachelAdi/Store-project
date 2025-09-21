@@ -1,6 +1,5 @@
 import React from "react";
 import logo from "./logo.svg";
-import "./App.css";
 import StoreItems from "./StoreItems";
 function App() {
   return (
